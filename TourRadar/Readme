@@ -1,0 +1,26 @@
+TourRadar Automation script readme file will help to understand how to clone and use this automation framework
+
+Automation tool user to automate:
+Selenium
+
+Programming language used to script:
+Java 
+
+Framework:
+TestNG with Page object model design pattern
+
+List of test cases automation.
+1. Invalid login and verify the error message
+2. Valid login and verify the customer Name
+3. Login, search a destination and send brochures to your personal email address.
+
+Browser used:
+Chrome browser
+
+
+Step1: Simply clone the project to your local repo
+Step2: Import the file to eclipse or any IDE
+Step3: OPen the Src > main> testcases> TourRadarLogin.java file
+Step4: Right click and run as TestNG 
+Step5: Script will execute and run the test cases.
+Step6: After completition of exections report file will get created in the reports folder.
